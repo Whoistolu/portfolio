@@ -70,7 +70,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Inspired by : [colorlib](https://colorlib.com/)
+- Inspired by : [envytheme](https://templates.envytheme.com/)
 
 
 ## 📝 License
