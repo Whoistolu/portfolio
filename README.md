@@ -18,7 +18,6 @@
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
-
 - Copy `git@github.com:Whoistolu/portfolio.git`
 - The clone it on your local machine
 - Run this on your terminal
