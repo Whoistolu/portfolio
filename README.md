@@ -25,6 +25,7 @@ To get a local copy up and running follow these simple example steps.
 ```
 git clone git@github.com:Whoistolu/portfolio.git
 ```
+
 - Navigate into the repository `cd portfolio`
 - Start the server locally on your default port
 
