@@ -1,8 +1,6 @@
 # Personal Website
 
-> This is my online space to highlight my various projects, skills and archievements
-
-![screenshot](./app_screenshot.png)
+My portfolio site
 
 ## Built With
 
@@ -66,10 +64,6 @@ Feel free to check the [issues page](https://github.com/Whoistolu/portfolio/issu
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Inspired by : [envytheme](https://templates.envytheme.com/)
 
 
 ## 📝 License
