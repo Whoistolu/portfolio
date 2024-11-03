@@ -65,6 +65,10 @@ Feel free to check the [issues page](https://github.com/Whoistolu/portfolio/issu
 
 Give a ⭐️ if you like this project!
 
+## Acknowledgments
+
+- Inspired by : [React icons](https://templates.envytheme.com/)
+
 
 ## 📝 License
 
