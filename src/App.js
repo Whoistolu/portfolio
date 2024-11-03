@@ -1,9 +1,12 @@
+import React from 'react'
+import './index.css'
 
-function App() {
+const App = () => {
   return (
-    <div>
-    </div>
-  );
+    <h1 className="text-3xl font-bold ">
+      Test Tailwind config!
+    </h1>
+  )
 }
 
-export default App;
+export default App
