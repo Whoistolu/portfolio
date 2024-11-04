@@ -1,6 +1,7 @@
 import React from 'react'
 import './index.css'
 import Navbar from './components/Navbar'
+import Legend from './components/Legend'
 
 const App = () => {
   return (
@@ -10,7 +11,7 @@ const App = () => {
       </div>
     <div className="container mx-auto px-8">
       <Navbar />
-      <h1 className='text-white bg-blue-600'>test this</h1>
+      <Legend />
     </div>
     </div>
   )
