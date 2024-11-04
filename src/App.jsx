@@ -3,6 +3,7 @@ import './index.css'
 import Navbar from './components/Navbar'
 import Legend from './components/Legend'
 import About from './components/About'
+import Technologies from './components/Technologies'
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <Navbar />
       <Legend />
       <About />
+      <Technologies />
     </div>
     </div>
   )
