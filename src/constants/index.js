@@ -55,4 +55,7 @@ export const PROJECTS = [
   },
 ];
 
-
+export const CONTACT = {
+  address: "Lagos, Nigeria",
+  email: "digittolu25@gmail.com",
+};
