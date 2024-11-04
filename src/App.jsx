@@ -2,6 +2,7 @@ import React from 'react'
 import './index.css'
 import Navbar from './components/Navbar'
 import Legend from './components/Legend'
+import About from './components/About'
 
 const App = () => {
   return (
@@ -12,6 +13,7 @@ const App = () => {
     <div className="container mx-auto px-8">
       <Navbar />
       <Legend />
+      <About />
     </div>
     </div>
   )
