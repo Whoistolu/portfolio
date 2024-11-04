@@ -67,7 +67,7 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Inspired by : [React icons](https://templates.envytheme.com/)
+- Icons: [React icons](https://templates.envytheme.com/)
 
 
 ## 📝 License
