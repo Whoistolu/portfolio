@@ -18,7 +18,7 @@ export const EXPERIENCES = [
   {
     year: "Dec. 2021 - Apr. 2024",
     role: "Code Reviewer",
-    company: "Microverse",
+    company: "Microverse (Part-Time)",
     description: `Helped over 980 students debug their codes and understand the technical concepts`,
     technologies: ["Ruby", "Ruby on Rails", "Javascript", "React.js", "PostgreSQL"],
   },
