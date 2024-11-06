@@ -1,6 +1,7 @@
 import React from 'react'
 import aboutimage from '../assets/about.png';
 import { ABOUT_TEXT } from '../constants/index';
+import { motion } from "framer-motion"
 
 const About = () => {
     return (
