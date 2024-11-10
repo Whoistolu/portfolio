@@ -1,7 +1,7 @@
 import React from 'react'
 import { LEGEND_CONTENT } from '../constants';
 import profilepicture from '../assets/profilep.png'
-import { motion } from "framer-motion"
+import { motion } from "framer-motion";
 
 const delayContainer = (delay) => ({
   hidden: {x: -100, opacity: 0},
