@@ -26,11 +26,11 @@ export const EXPERIENCES = [
 
 export const PROJECTS = [
   {
-    title: "E-Commerce Website",
+    title: "Medical Clinic Website",
     image: project1,
     description:
-      "A fully functional e-commerce website with features like product listing, shopping cart, and user authentication.",
-    technologies: ["Ruby", "Ruby on Rails", "Javascript", "React.js", "PostgreSQL"]
+      "A clinical website that consists of a receptionist portal & doctor portal which has a single login page for both portals, Receptionists can register a new patient & perform CRUD operations, and Doctors can view registered patients & view the graph that represents the number of patients registered vs days.",
+    technologies: ["Ruby", "Ruby on Rails", "PostgreSQL"]
   },
   {
     title: "Task Management App",
@@ -47,11 +47,11 @@ export const PROJECTS = [
     technologies: ["Ruby", "Ruby on Rails", "Javascript", "React.js", "PostgreSQL"]
   },
   {
-    title: "Blogging Platform",
+    title: "Real Estate Website",
     image: project4,
     description:
-      "A platform for creating and publishing blog posts, with features like rich text editing, commenting, and user profiles.",
-    technologies: ["Ruby", "Ruby on Rails", "Javascript", "React.js", "PostgreSQL"]
+      "This is an apartment webapp that allows a user to sign up, log in, and make leases on particular apartments.",
+    technologies: ["Ruby", "Ruby on Rails", "Javascript", "React.js", "Redux", "PostgreSQL"]
   },
 ];
 
