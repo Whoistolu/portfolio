@@ -33,11 +33,11 @@ export const PROJECTS = [
     technologies: ["Ruby", "Ruby on Rails", "PostgreSQL"]
   },
   {
-    title: "Task Management App",
+    title: "To-Do List App",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["Ruby", "Ruby on Rails", "Javascript", "React.js", "PostgreSQL"]
+      "A TO DO List App Using vanilla JavaScript, HTML and CSS. In this JavaScript Project I used the Local Storage to store the task list in the web browser, so that if you close and restart the browser it will still display your saved tasks.",
+    technologies: ["Javascript", "HTML", "CSS"]
   },
   {
     title: "Portfolio Website",
